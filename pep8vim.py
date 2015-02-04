@@ -13,6 +13,6 @@ p = subprocess.Popen("pep8 /tmp/code.py", stdout=subprocess.PIPE, shell=True)
 (output, err) = p.communicate()
 
 if output:
-    print(outupt)
+    print(output)
 else:
     print("PEP8 compliant")
