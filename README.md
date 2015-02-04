@@ -1,5 +1,5 @@
-###Author: Leonidas S. Barbosa (kirotawa)
-###E-mail: kirotawa@gmail.com
+######Author: Leonidas S. Barbosa (kirotawa)
+######E-mail: kirotawa@gmail.com
 
 ##Dependency:
 	#pep8 tool/command
